@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  float: left;
+}
+.chart{
+  width: 50%;
+  height: 50vh;
+  min-width: 400px;
+  min-height: 400px;
+  padding: 30px;
+}
